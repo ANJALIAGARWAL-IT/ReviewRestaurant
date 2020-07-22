@@ -10,9 +10,9 @@
 
 
 ## Demo
-Click on the [Link](https://reviewrestaurant.herokuapp.com/)
+Click on the [Link](https://review-restaurant.herokuapp.com/)
 
-![](https://imgur.com/YoCIPWZ.png)
+![](https://imgur.com/8zrDW2h.png)
 
 
 ## Overview
